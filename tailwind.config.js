@@ -2,13 +2,13 @@
 export default {
   content: [
     "./index.html",
-    "./src/**/*.{js,ts,jsx,tsx}",
+    "./src/**/*.{js,ts,jsx,tsx}"
   ],
-  darkMode: 'class',
+  darkMode: "class",
   theme: {
     extend: {
       colors: {
-        primary: '#1d4ed8', // define a cor "primary"
+        primary: "#2563eb", // azul principal
       },
     },
   },
